@@ -11,12 +11,13 @@ This allowed me to effectively master current standards, acquire skills, and gai
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/JensenSyrner"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+   📫 How to reach me:
 </p>
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:f.s0cial@outlook.com'>f.s0cial@outlook.com</a>
+  <a href="mailto:f.s0cial@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/JensenSyrner"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
