@@ -1,7 +1,12 @@
-### Hi there 👋
-### My name is Egor, I am a C++ developer
+### Hi! My name is Egor, I am a C++ developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyonaro&layout=compact)](https://github.com/Juyonaro/github-readme-stats)
+<p align='center'>
+  <a href="https://github.com/Juyonaro"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyonaro&layout=compact"/></a>
+</p>
+
+<p align='center'>
+<a href="https://t.me/JensenSyrner"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 <!--
 **Juyonaro/Juyonaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
