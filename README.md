@@ -1,4 +1,7 @@
 ### Hi there 👋
+### My name is Egor, I am a C++ developer
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyonaro&layout=compact)](https://github.com/Juyonaro/github-readme-stats)
 
 <!--
 **Juyonaro/Juyonaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
