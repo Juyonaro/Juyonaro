@@ -23,7 +23,7 @@ This allowed me to effectively master current standards, acquire skills, and gai
 
 
 ## 🛠 Technical Stack
-*   C++ 14/17/20, STL, RAII
+*   C++ 14/17/20, STL, RAII, Move semantics
 *   MS VS, MS VS Code, Qt Creator, GCC, Clang
 *   Git, Bash, Linux
 *   Protobuf, CMake, ANTLR
