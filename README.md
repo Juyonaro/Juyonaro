@@ -7,7 +7,7 @@ This allowed me to effectively master current standards, acquire skills, and gai
 
 
 <p align='center'>
-  <a href="https://github.com/Juyonaro"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyonaro&layout=compact"/></a>
+  <a href="https://github.com/Xephyanth"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xephyanth&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -16,7 +16,7 @@ This allowed me to effectively master current standards, acquire skills, and gai
 
 <p align='center'>
   <a href="mailto:f.s0cial@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://t.me/JensenSyrner"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/Xephyanth"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
